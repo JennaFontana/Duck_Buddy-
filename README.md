@@ -7,7 +7,7 @@ Duck Buddy is a study buddy that detects how long a person is studying and times
 This project was created for CPEG/ELEG 298 during the Spring 2026 semester.
 
 ## Hardware and Software 
-Arduino UNO, Ultrasonic distance sensor, LEDs, and UART connection
+Arduino UNO, Ultrasonic distance sensor, LEDs, and UART connection - 
 Arduino IDE and C++
 
 ## How It Works
